@@ -1,0 +1,19 @@
+{
+  "name": "editorimage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/13ck4/editorImage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13ck4/editorImage/issues"
+  },
+  "homepage": "https://github.com/13ck4/editorImage#readme"
+}
